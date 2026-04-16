@@ -21,7 +21,7 @@ The project simulates a real QA workflow following Agile methodology.
 - Jira
 - MS Excel
 
-## 🐞 Bug Reporting
+## Bug Reporting
 - Identified defects during execution
 - Reported bugs with proper steps, expected vs actual results
 - Attached screenshots for clear evidence
